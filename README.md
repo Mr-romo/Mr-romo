@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mr-romo
-- 👀 I’m interested in learning just about everything! but im starting with Python
+- 👀 I’m interested in learning just about everything! but im starting with HTML CSS and Java
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on, not sure yet.. 
 - 📫 How to reach me Email! romo2327@gmail.com
